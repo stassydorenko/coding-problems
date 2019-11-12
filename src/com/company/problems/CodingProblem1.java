@@ -1,6 +1,10 @@
-package com.company;
+package com.company.problems;
+
 
 public class CodingProblem1 {
+
+    private CodingProblem1(){
+    }
 
     /**
      * [Hard]
@@ -35,7 +39,5 @@ public class CodingProblem1 {
 
         return result;
     }
-
-
 
 }
